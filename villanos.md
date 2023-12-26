@@ -2,4 +2,4 @@
 
 * Dr. Doom
 * Red Skul
-* Dr. Herrera
+* Capitan America
